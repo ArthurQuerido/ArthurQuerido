@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in learning new programming skills and improving everything that I already know.
 
-- 🌱 I’m currently learning advanced Python, and improving some other things that I know relatively well, like Photoshop,
+- 🌱 I’m currently learning advanced Python and PowerBI, and improving some other things that I know relatively well, like Photoshop,
 Ilustrator and Excel.
 
 - 💞️ I’m looking to collaborate on anything that can impact the world and help people on a daily basis. 
